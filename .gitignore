@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and Local Configs
+.env
+venv/
+env/
+ENV/
+
+# Browser profiles and temporary caches
+chrome_notebooklm_profile/
+*.tmp
+*.log
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
